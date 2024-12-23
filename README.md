@@ -42,5 +42,5 @@ This **Wi-Fi Deauther Script** is a Bash-based tool designed for Kali Linux, uti
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Wi-Fi-Deauther.git
-   cd Wi-Fi-Deauther
+   git clone https://github.com/Apeiro7/Adeauther.git
+   cd Adeauther
